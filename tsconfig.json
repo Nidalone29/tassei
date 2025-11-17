@@ -8,6 +8,12 @@
     },
     {
       "path": "./apps/tassei"
+    },
+    {
+      "path": "./apps/tassei-web-client-e2e"
+    },
+    {
+      "path": "./apps/tassei-web-client"
     }
   ]
 }
