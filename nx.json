@@ -118,5 +118,8 @@
       }
     }
   },
-  "neverConnectToCloud": true
+  "neverConnectToCloud": true,
+  "tui": {
+    "enabled": false
+  }
 }
